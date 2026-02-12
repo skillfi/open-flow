@@ -245,6 +245,10 @@ lat, lon = 48.2658, 25.9184
 m.save("drone_path.html")
 ```
 Predicted output: ![](https://github.com/skillfi/open-flow/blob/main/image.png)
+Marks description:
+* Green point: Start Position
+* Red point: Predicted Position
+* Orange Point: End position from video
 ---
 
 ## Limitations
