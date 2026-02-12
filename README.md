@@ -157,7 +157,7 @@ smoothing_sigma = 2.0   # Gaussian filter parameter
 - GPS: (48.2658°, 25.9184°)
 - Altitude: 25 meters
 
-**Ending Position (Ground Truth):**
+**Ending Position (Ground Truth) (from video):**
 - GPS: (48.2659°, 25.9192°)
 
 **Calculated Ending Position:**
@@ -244,7 +244,7 @@ lat, lon = 48.2658, 25.9184
 # Output: drone_path.html
 m.save("drone_path.html")
 ```
-
+Predicted output: ![](https://github.com/skillfi/open-flow/blob/main/image.png)
 ---
 
 ## Limitations
